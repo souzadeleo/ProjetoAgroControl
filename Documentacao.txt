@@ -1,2 +1,5 @@
 Documento inicial do projeto.
 Versão 1.0
+
+Adicionado cadastro do propriedades rurais 
+Controle de plantio e colheita 

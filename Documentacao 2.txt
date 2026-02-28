@@ -1,0 +1,7 @@
+Documentação de atualizações
+Versão 1.5
+
+Adicionado cadastro do propriedades rurais (Registro de propriedades que faltaram)
+Controle de plantio e colheita 
+Registro de aplicação de insumos
+Relatório de produtividade por safra
